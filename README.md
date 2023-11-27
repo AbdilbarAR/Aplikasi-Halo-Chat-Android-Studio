@@ -21,16 +21,28 @@ Bersiaplah untuk mengalami obrolan yang lebih mendalam dan seru!"
 ### Tampilan
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20204245.png?raw=true)
 ![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20204633.png?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20204917.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20204959.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205101.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205136.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205216.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205250.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205325.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205741.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205813.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20205903.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20210000.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20210024.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20210059.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Aplikasi-Halo-Chat-Android-Studio/blob/main/assets/Screenshot%202023-11-26%20210203.png?raw=true)
+
+Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile 
+[Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/)
+
+Kelompok 1 :
+1. ABDILBAR AINUR RIDLA (22050974015)
+2. TYTA IKHLAS SAFITRI (22050974016)
+3. AHMAD MAYSWARA AMANDA GIRI (22050974031)
+4. KIRANA JUWITA PUTRI RIHADIAN (22050974037)
+
+"Hope you enjoy the app we've created."
