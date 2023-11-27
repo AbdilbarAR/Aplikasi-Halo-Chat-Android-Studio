@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout>
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".view.activities.status.AddStatusPicActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_back"
+            android:foreground="?selectableItemBackground"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:padding="10dp"
+            android:background="@android:color/transparent"
+            app:tint="@android:color/white" />
+        
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/image_profile"
+            android:src="@drawable/icon_male"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_crop"
+            android:foreground="?selectableItemBackground"
+            android:background="@android:color/transparent"
+            android:padding="10dp"
+            android:src="@drawable/baseline_crop_24"
+            app:tint="@color/white" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_sticker"
+            android:foreground="?selectableItemBackground"
+            android:src="@drawable/baseline_emoji_emotions_24"
+            android:padding="10dp"
+            android:background="@android:color/transparent"
+            app:tint="@color/white" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_text"
+            android:foreground="?selectableItemBackground"
+            android:src="@drawable/text_size_24"
+            android:padding="10dp"
+            android:background="@android:color/transparent"
+            app:tint="@color/white" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_edit"
+            android:foreground="?selectableItemBackground"
+            android:src="@drawable/baseline_edit_24"
+            android:padding="10dp"
+            android:background="@android:color/transparent"
+            app:tint="@color/white" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/image_view"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="60dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/icon_male"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_image"
+            android:background="@android:color/transparent"
+            android:foreground="?selectableItemBackground"
+            android:baselineAligned="false"
+            android:padding="10dp"
+            android:src="@drawable/baseline_insert_photo_24"
+            app:tint="@color/white" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ed_description"
+            android:background="@android:color/transparent"
+            android:gravity="center_vertical"
+            android:hint="Tambahkan Keterangan"
+            android:padding="5dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/darker_gray" />
+
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_send"
+        android:background="@color/colorPrimary"
+        android:src="@drawable/send_button"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="35dp"
+        android:tint="@android:color/white"
+        android:elevation="5dp"
+        app:elevation="5dp"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</layout>

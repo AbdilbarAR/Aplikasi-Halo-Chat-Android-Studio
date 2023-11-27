@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:iconTint="@android:color/white"
+        android:title="Search"
+        app:showAsAction="always"/>
+
+    <group
+        android:id="@+id/action_more">
+        <item
+            android:id="@+id/action_group_baru"
+            android:title="Group Baru"/>
+
+        <item
+            android:id="@+id/action_siaran_baru"
+            android:title="Siaran Baru"/>
+
+        <item
+            android:id="@+id/action_perangkat_tertaut"
+            android:title="Perangkat Tertaut"/>
+
+        <item
+            android:id="@+id/action_pesan_berbintang"
+            android:title="Pesan Berbintang"/>
+
+        <item
+            android:id="@+id/action_setelan"
+            android:title="Setelan"/>
+
+    </group>
+
+
+</menu>

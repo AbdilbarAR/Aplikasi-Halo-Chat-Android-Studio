@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524611048401",
+    "project_id": "halo-chat-58ddb",
+    "storage_bucket": "halo-chat-58ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524611048401:android:12ffb726edecd28f5086f0",
+        "android_client_info": {
+          "package_name": "com.littleit.halo_chat_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRQQ9eG4scfVWw12N_2auHM5nJcBZw9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
